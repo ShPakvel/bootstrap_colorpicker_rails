@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = BootstrapColorpickerRails::VERSION
   spec.authors       = ["Pavel Shpak"]
   spec.email         = ["shpakvel@gmail.com"]
-  spec.summary       = %q{Rails integration for Bootstrap Colorpicker with simpel_form input.}
+  spec.summary       = %q{Rails integration for Bootstrap Colorpicker, with simpel_form input.}
   spec.description   = spec.summary
   spec.homepage      = "http://github.com/ShPakvel/bootstrap_colorpicker_rails"
   spec.license       = "MIT"
