@@ -1,6 +1,6 @@
 ## v1.0.0
 
-* add `wrapper_options` to simple_form input for future compatibility
+* add `wrapper_options` to simple_form input for future compatibility. Thanks to Sebastian Roth (@ened)
 
 
 ## v0.1.0
