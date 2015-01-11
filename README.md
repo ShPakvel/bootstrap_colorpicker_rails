@@ -1,6 +1,7 @@
 # BootstrapColorpickerRails
 
 [![Gem Version](https://badge.fury.io/rb/bootstrap_colorpicker_rails.svg)](http://badge.fury.io/rb/bootstrap_colorpicker_rails)
+[![Code Climate](https://codeclimate.com/github/ShPakvel/bootstrap_colorpicker_rails/badges/gpa.svg)](https://codeclimate.com/github/ShPakvel/bootstrap_colorpicker_rails)
 [![Dependency Status](https://gemnasium.com/ShPakvel/bootstrap_colorpicker_rails.svg)](https://gemnasium.com/ShPakvel/bootstrap_colorpicker_rails)
 
 This gem is Rails integration for Bootstrap Colorpicker. It includes simple_form input for Colorpicker.
