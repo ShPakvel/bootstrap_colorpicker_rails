@@ -66,7 +66,7 @@ There is `simple_form` input which you can apply via `as: :colorpicker` option.
 <%= f.input :color, as: :colorpicker %>
 ```
 
-**Note:** For simple_form version < '3.1.0' use this gem version '0.1.0'
+**Note:** For simple_form version < '3.1.0' use this gem version '0.1.1'
 
 
 ## Contributing
