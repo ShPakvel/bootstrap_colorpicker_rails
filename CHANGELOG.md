@@ -1,3 +1,8 @@
+## v1.0.2
+
+* Minor documentation corrections.
+
+
 ## v1.0.1
 
 * Fix for issue #1.
