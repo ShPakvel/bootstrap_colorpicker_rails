@@ -7,4 +7,8 @@ class ColorpickerInput < SimpleForm::Inputs::StringInput
 
     super + script
   end
+
+  def input_type
+    :string
+  end
 end
